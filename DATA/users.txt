@@ -1,0 +1,5 @@
+riya123,$2b$12$vlE8lhHm1yF/eP.UeFmZg.0WRRMdz4j4nhyTKpYTgR2gRJYMu.c3i,admin
+mohamed123,$2b$12$mwnYoeEttRA4JAgGfwGdquV6FSm3k0Mv7PPAYQkCsGqTshqDfvBFq,admin
+zoro123,$2b$12$Q55vLg.II4SFvsg86EjuB.Y8c9gMRdEOYQIZvd2pZpN0N/Tx2HPKC,user
+luffy69,$2b$12$5k5zuIa.f5dzZUfTWsCymOYG8uLQMrpGQ51ZKSEN1NXDiJN81ZULW,user
+sanji420,$2b$12$q/MoiEhlK0YemR7jOiu3k.wWxovr0d7QQ7BRDONKA32vHrLZweiaW,user
